@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+data
+FILELIST*
+NameDatabases
+*.pkl
+*.py[co]
